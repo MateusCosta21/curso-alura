@@ -5,7 +5,7 @@ require 'funcoes.php';
 $contasCorrentes = [
     60839893370 => [
         'titular' => 'Mateus',
-        'saldo' => 1200
+        'saldo' => 1700
     ],
     60839893360 => [
         'titular' => 'João',
